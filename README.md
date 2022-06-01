@@ -1,6 +1,6 @@
 # email-test
 
-### install
+### Install
 
 ```composer install```
 
